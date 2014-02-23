@@ -1,0 +1,127 @@
+Sample : 1
+
+enter the value of m
+4
+enter the irreducble polynomial
+4 1 0
+List of the generator(s) : 
+2
+3
+4
+5
+9
+11
+13
+14
+Select any of the above generator : 
+2
+enter the value of i
+4
+enter the value of j
+0
+List of Points on the curve : 
+1 : (0,1)
+2 : (1,12)
+3 : (1,13)
+4 : (6,8)
+5 : (6,14)
+6 : (7,2)
+7 : (7,5)
+8 : (8,5)
+9 : (8,13)
+10 : (10,7)
+11 : (10,13)
+12 : (12,5)
+13 : (12,9)
+14 : (15,0)
+15 : (15,15)
+16 : Infinity
+Total no. of points on the curve : 16
+List of generators : 
+1 : (8,5)
+2 : (8,13)
+3 : (10,7)
+4 : (10,13)
+5 : (12,5)
+6 : (12,9)
+7 : (15,15)
+Total no. of generators : 7
+Select a generator from above points : 
+4
+Scalar multiples of the generator are : 
+1A - (10,13)
+2A - (7,5)
+3A - (15,15)
+4A - (1,13)
+5A - (8,5)
+6A - (6,14)
+7A - (12,9)
+8A - (0,1)
+9A - (12,5)
+10A - (6,8)
+11A - (8,13)
+12A - (1,12)
+13A - (15,0)
+14A - (7,2)
+15A - (10,7)
+16A - Infinity
+
+
+
+
+
+
+
+Sample 2
+enter the value of m
+4
+enter the irreducble polynomial
+4 1 0
+List of the generator(s) : 
+2
+3
+4
+5
+9
+11
+13
+14
+Select any of the above generator : 
+9
+enter the value of i
+2
+enter the value of j
+5
+List of Points on the curve : 
+1 : (0,6)
+2 : (4,9)
+3 : (4,13)
+4 : (5,1)
+5 : (5,4)
+6 : (8,3)
+7 : (8,11)
+8 : (15,0)
+9 : (15,15)
+10 : Infinity
+Total no. of points on the curve : 10
+List of generators : 
+1 : (4,9)
+2 : (4,13)
+3 : (5,1)
+4 : (5,4)
+Total no. of generators : 4
+Select a generator from above points : 
+2
+Scalar multiples of the generator are : 
+1A - (4,13)
+2A - (15,0)
+3A - (5,4)
+4A - (8,3)
+5A - (0,6)
+6A - (8,11)
+7A - (5,1)
+8A - (15,15)
+9A - (4,9)
+10A - Infinity
+
+
